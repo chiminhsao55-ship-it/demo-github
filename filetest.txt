@@ -1,0 +1,5 @@
+មេរៀនទី 2៖ រៀបចំឧបករណ៍
+អ្នកត្រូវមានឧបករណ៍ 3៖
+1. Git — សម្រាប់គ្រប់គ្រង Version របស់ Code។
+2. VS Code — សម្រាប់សរសេរ Flutter Code។
+3. GitHub Account — សម្រាប់ផ្ទុក Project Online
